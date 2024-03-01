@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\bin\Debug\net8.0\AnaliseDeDados.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\bin\Debug\net8.0\AnaliseDeDados.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\bin\Debug\net8.0\AnaliseDeDados.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\bin\Debug\net8.0\AnaliseDeDados.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\bin\Debug\net8.0\AnaliseDeDados.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\refint\AnaliseDeDados.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\AnaliseDeDados.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\AnaliseDeDados\AnaliseDeDados\obj\Debug\net8.0\ref\AnaliseDeDados.dll
