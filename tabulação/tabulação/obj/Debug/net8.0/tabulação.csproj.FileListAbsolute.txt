@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\bin\Debug\net8.0\tabulação.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\bin\Debug\net8.0\tabulação.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\bin\Debug\net8.0\tabulação.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\bin\Debug\net8.0\tabulação.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\bin\Debug\net8.0\tabulação.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\refint\tabulação.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\tabulação.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\tabulação\tabulação\obj\Debug\net8.0\ref\tabulação.dll
