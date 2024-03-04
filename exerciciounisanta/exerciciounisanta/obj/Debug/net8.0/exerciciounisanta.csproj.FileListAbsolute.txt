@@ -1,0 +1,14 @@
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\bin\Debug\net8.0\exerciciounisanta.exe
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\bin\Debug\net8.0\exerciciounisanta.deps.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\bin\Debug\net8.0\exerciciounisanta.runtimeconfig.json
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\bin\Debug\net8.0\exerciciounisanta.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\bin\Debug\net8.0\exerciciounisanta.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.AssemblyInfoInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.AssemblyInfo.cs
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.csproj.CoreCompileInputs.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\refint\exerciciounisanta.dll
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.pdb
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\exerciciounisanta.genruntimeconfig.cache
+C:\Users\natha\OneDrive\Área de Trabalho\Projetos_POO\exerciciounisanta\exerciciounisanta\obj\Debug\net8.0\ref\exerciciounisanta.dll
